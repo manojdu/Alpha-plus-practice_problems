@@ -19,12 +19,11 @@ This repository serves as a record of my progress and the practice problems I've
 ## Topics Covered
 
 The practice problems in this repository cover a wide range of Java programming topics, including but not limited to:
-
+- Flowcharts and Pseudocodes
 - Data Types and Variables
-- Control Statements (if, else, loops)
-- Functions and Methods
-- Object-Oriented Programming (classes, objects)
-- ... (list other topics)
+- Operators
+- Control Statements (if else , if else if ,switch)
+- Loops(while,do-while,for)
 
 Feel free to explore the code and use it as a reference while learning Java.
 
